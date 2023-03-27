@@ -15,7 +15,8 @@
     We're actively working on this issue for a future release.  
 Please make sure to use Pandas version 1.3.x when working with GemPy for the time being.** 
 
-**Using theano, GemPy requires numpy version < 1.22.0 as `blas_opt_info` was deprecated in newer numpy versions.**:warning:
+**Using theano, GemPy requires numpy version < 1.22.0 as `blas_opt_info` was deprecated in newer numpy versions.**
+**We recommend installing GemPy in an environment using Python 3.9.**:warning:
 ## Overview
 
 [GemPy](https://www.gempy.org/) is a Python-based, **open-source geomodeling library**. It is
